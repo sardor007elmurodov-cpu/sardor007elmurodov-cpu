@@ -1,15 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Elmurodov%20Sardor&fontSize=60&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=250&section=header&text=Elmurodov%20Sardor&fontSize=60&fontAlignY=35&animation=fadeIn" width="100%"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=500&color=2D95F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%7C+Flutter+%7C+AI+%7C+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%7C+Flutter+%7C+AI+%7C+UI%2FUX;Building+Production-Ready+Applications" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   <a href="https://github.com/sardor007elmurodov-cpu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sardor007elmurodov-cpu&style=for-the-badge&color=8B5CF6" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -39,6 +40,7 @@ I'm a passionate **Full-Stack Developer** specializing in building high-quality,
 ### Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -67,19 +69,35 @@ I'm a passionate **Full-Stack Developer** specializing in building high-quality,
 | [![EVZAP E-Commerce](https://img.shields.io/badge/EVZAP-E--Commerce-FFD700)](https://github.com/sardor007elmurodov-cpu/EVZAP-E-Commerce) | Premium luxury e-commerce platform with multilingual support, Telegram bot, and admin panel | Flask, SQLAlchemy, Tailwind CSS, Python |
 | [![Portfolio Elite](https://img.shields.io/badge/Portfolio-Elite-8B5CF6)](https://github.com/sardor007elmurodov-cpu/portfolio-elite-fullstack) | Agency-level immersive portfolio with 3D interactions and cinematic UI | Next.js 14, Three.js, Django, TypeScript |
 | [![BolaJon OS](https://img.shields.io/badge/BolaJon-OS-00BFFF)](https://github.com/sardor007elmurodov-cpu/BolaJon-OS) | Interactive educational OS platform for children | Flutter, Django, C++, QML |
-| [![Aziz Academy](https://img.shields.io/badge/Aziz-Academy-22c55e)](https://github.com/sardor007elmurodov-cpu/aziz-academy-topshiriqlar) | AI programming assignments and algorithmic exercises | Python |
+| [![Aziz Academy](https://img.shields.io/badge/Aziz-Academy-22c55e)](https://github.com/sardor007elmurodov-cpu/aziz-academy-topshiriqlar) | 300+ Python algorithmic exercises and assignments | Python |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sardor007elmurodov-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardor007elmurodov-cpu&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sardor007elmurodov-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardor007elmurodov-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sardor007elmurodov-cpu&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sardor007elmurodov-cpu&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sardor007elmurodov-cpu&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sardor007elmurodov-cpu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="95%"/>
 </div>
 
 ---
@@ -88,12 +106,11 @@ I'm a passionate **Full-Stack Developer** specializing in building high-quality,
 
 <div align="center">
   <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Gmail-sardor007elmurodov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <br/>
   <a href="https://github.com/sardor007elmurodov-cpu"><img src="https://img.shields.io/badge/GitHub-@sardor007elmurodov--cpu-181717?style=for-the-badge&logo=github" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=footer" width="100%"/>
 </div>

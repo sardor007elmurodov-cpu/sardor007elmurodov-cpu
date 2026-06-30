@@ -7,10 +7,10 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/Sardor-Dev-2010"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Elmurodov-Sardor"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Sardor-Dev-2010&style=for-the-badge&color=8B5CF6" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Elmurodov-Sardor&style=for-the-badge&color=8B5CF6" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -76,12 +76,12 @@ I'm a passionate **Full-Stack Developer** specializing in building high-quality,
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sardor-Dev-2010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-Dev-2010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elmurodov-Sardor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmurodov-Sardor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sardor-Dev-2010&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elmurodov-Sardor&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ I'm a passionate **Full-Stack Developer** specializing in building high-quality,
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sardor-Dev-2010&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elmurodov-Sardor&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 </div>
 
 ---
@@ -97,7 +97,7 @@ I'm a passionate **Full-Stack Developer** specializing in building high-quality,
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sardor-Dev-2010&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Elmurodov-Sardor&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="95%"/>
 </div>
 
 ---
@@ -106,7 +106,7 @@ I'm a passionate **Full-Stack Developer** specializing in building high-quality,
 
 <div align="center">
   <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Gmail-sardor007elmurodov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Sardor-Dev-2010"><img src="https://img.shields.io/badge/GitHub-@sardor007elmurodov--cpu-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Elmurodov-Sardor"><img src="https://img.shields.io/badge/GitHub-@sardor007elmurodov--cpu-181717?style=for-the-badge&logo=github" /></a>
 </div>
 
 ---

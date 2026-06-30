@@ -64,12 +64,12 @@ I'm a passionate **Full-Stack Developer** specializing in building high-quality,
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [![EVZAP E-Commerce](https://img.shields.io/badge/EVZAP-E--Commerce-FFD700)](https://github.com/sardor007elmurodov-cpu/EVZAP-E-Commerce) | Premium luxury e-commerce platform with multilingual support, Telegram bot, and admin panel | Flask, SQLAlchemy, Tailwind CSS, Python |
-| [![Portfolio Elite](https://img.shields.io/badge/Portfolio-Elite-8B5CF6)](https://github.com/sardor007elmurodov-cpu/portfolio-elite-fullstack) | Agency-level immersive portfolio with 3D interactions and cinematic UI | Next.js 14, Three.js, Django, TypeScript |
-| [![BolaJon OS](https://img.shields.io/badge/BolaJon-OS-00BFFF)](https://github.com/sardor007elmurodov-cpu/BolaJon-OS) | Interactive educational OS platform for children | Flutter, Django, C++, QML |
-| [![Aziz Academy](https://img.shields.io/badge/Aziz-Academy-22c55e)](https://github.com/sardor007elmurodov-cpu/aziz-academy-topshiriqlar) | 300+ Python algorithmic exercises and assignments | Python |
+| Project | Live Demo | Description | Tech Stack |
+|---------|-----------|-------------|------------|
+| [![EVZAP E-Commerce](https://img.shields.io/badge/EVZAP-E--Commerce-FFD700)](https://github.com/sardor007elmurodov-cpu/EVZAP-E-Commerce) | [🔗 evzap-parts.uz](https://evzap-parts.uz) | Premium luxury e-commerce platform with multilingual support, Telegram bot, and admin panel | Flask, SQLAlchemy, Tailwind CSS, Python |
+| [![Portfolio Elite](https://img.shields.io/badge/Portfolio-Elite-8B5CF6)](https://github.com/sardor007elmurodov-cpu/portfolio-elite-fullstack) | [🔗 sardor-portfolio-elite.web.app](https://sardor-portfolio-elite.web.app) | Agency-level immersive portfolio with 3D interactions and cinematic UI | Next.js 14, Three.js, Django, TypeScript |
+| [![BolaJon OS](https://img.shields.io/badge/BolaJon-OS-00BFFF)](https://github.com/sardor007elmurodov-cpu/BolaJon-OS) | [🔗 bolajon-os.vercel.app](https://bolajon-os.vercel.app) | Interactive educational OS platform for children | Flutter, Django, C++, QML |
+| [![Aziz Academy](https://img.shields.io/badge/Aziz-Academy-22c55e)](https://github.com/sardor007elmurodov-cpu/aziz-academy-topshiriqlar) | — | 300+ Python algorithmic exercises and assignments | Python |
 
 ---
 

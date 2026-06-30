@@ -64,43 +64,12 @@ I'm a passionate **Full-Stack Developer** specializing in building high-quality,
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-### 🛍️ EVZAP E-Commerce
-**🔒 Private** · [🔗 Live Demo →](https://evzap-parts.uz)
-<br>
-Premium luxury e-commerce platform — Flask, SQLAlchemy, Tailwind CSS, Python
-<br>
-Multilingual · Telegram Bot · Admin Panel · Session Cart
-
----
-
-### 🎨 Portfolio Elite
-**🔒 Private** · [🔗 Live Demo →](https://sardor-portfolio-elite.web.app)
-<br>
-Immersive full-stack portfolio — Next.js 14, Three.js, Django, TypeScript
-<br>
-3D Scenes · Framer Motion · AI Assistant · Admin Dashboard
-
----
-
-### 🎮 BolaJon OS
-**🔓 Public** · [🔗 Live Demo →](https://bolajon-os.vercel.app)
-<br>
-Educational OS for kids — Flutter, Django, C++, QML
-<br>
-Gamified Learning · Parent Dashboard · Cross-Platform
-
----
-
-### 📚 Aziz Academy
-**🔓 Public**
-<br>
-300+ Python algorithmic exercises — Python
-<br>
-30+ Topics · Problem Solving · Coding Challenges
-
-</div>
+| Project | Live Demo | Status | Description | Tech Stack |
+|---------|-----------|--------|-------------|------------|
+| 🛍️ **EVZAP E-Commerce** | [🔗 evzap-parts.uz](https://evzap-parts.uz) | 🔒 Private | Premium luxury e-commerce platform with multilingual support, Telegram bot, admin panel | Flask, SQLAlchemy, Tailwind CSS |
+| 🎨 **Portfolio Elite** | [🔗 sardor-portfolio-elite.web.app](https://sardor-portfolio-elite.web.app) | 🔒 Private | Immersive full-stack portfolio with 3D scenes, AI Assistant, admin dashboard | Next.js 14, Three.js, Django, TypeScript |
+| 🎮 **BolaJon OS** | [🔗 bolajon-os.vercel.app](https://bolajon-os.vercel.app) | 🔓 Public | Educational OS for kids with gamified learning and parental dashboard | Flutter, Django, C++, QML |
+| 📚 **Aziz Academy** | — | 🔓 Public | 300+ Python algorithmic exercises across 30+ topics | Python |
 
 ---
 

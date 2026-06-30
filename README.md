@@ -64,14 +64,43 @@ I'm a passionate **Full-Stack Developer** specializing in building high-quality,
 
 ## 📌 Featured Projects
 
-| Project | Live Demo | Description | Tech Stack |
-|---------|-----------|-------------|------------|
-| Project | Live Demo | Status | Description | Tech Stack |
-|---------|-----------|--------|-------------|------------|
-| [EVZAP E-Commerce](https://github.com/sardor007elmurodov-cpu/EVZAP-E-Commerce) | [🔗 evzap-parts.uz](https://evzap-parts.uz) | 🔒 Private | Premium luxury e-commerce platform with multilingual support, Telegram bot, and admin panel | Flask, SQLAlchemy, Tailwind CSS, Python |
-| [Portfolio Elite](https://github.com/sardor007elmurodov-cpu/portfolio-elite-fullstack) | [🔗 sardor-portfolio-elite.web.app](https://sardor-portfolio-elite.web.app) | 🔒 Private | Agency-level immersive portfolio with 3D interactions and cinematic UI | Next.js 14, Three.js, Django, TypeScript |
-| [BolaJon OS](https://github.com/sardor007elmurodov-cpu/BolaJon-OS) | [🔗 bolajon-os.vercel.app](https://bolajon-os.vercel.app) | 🔓 Public | Interactive educational OS platform for children | Flutter, Django, C++, QML |
-| [Aziz Academy](https://github.com/sardor007elmurodov-cpu/aziz-academy-topshiriqlar) | — | 🔓 Public | 300+ Python algorithmic exercises and assignments | Python |
+<div align="center">
+
+### 🛍️ EVZAP E-Commerce
+**🔒 Private** · [🔗 Live Demo →](https://evzap-parts.uz)
+<br>
+Premium luxury e-commerce platform — Flask, SQLAlchemy, Tailwind CSS, Python
+<br>
+Multilingual · Telegram Bot · Admin Panel · Session Cart
+
+---
+
+### 🎨 Portfolio Elite
+**🔒 Private** · [🔗 Live Demo →](https://sardor-portfolio-elite.web.app)
+<br>
+Immersive full-stack portfolio — Next.js 14, Three.js, Django, TypeScript
+<br>
+3D Scenes · Framer Motion · AI Assistant · Admin Dashboard
+
+---
+
+### 🎮 BolaJon OS
+**🔓 Public** · [🔗 Live Demo →](https://bolajon-os.vercel.app)
+<br>
+Educational OS for kids — Flutter, Django, C++, QML
+<br>
+Gamified Learning · Parent Dashboard · Cross-Platform
+
+---
+
+### 📚 Aziz Academy
+**🔓 Public**
+<br>
+300+ Python algorithmic exercises — Python
+<br>
+30+ Topics · Problem Solving · Coding Challenges
+
+</div>
 
 ---
 
